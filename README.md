@@ -8,7 +8,7 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 1. [AlwaysInstallElevated](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated//)
 2. [SeBackupPrivilege](https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/)
 3. [DnsAdmins to DomainAdmin](https://www.hackingarticles.in/windows-privilege-escalation-dnsadmins-to-domainadmin/)
-4. [SeImpersonatePrivilege](hhttps://www.hackingarticles.in/windows-privilege-escalation-seimpersonateprivilege/)
+4. [SeImpersonatePrivilege](https://www.hackingarticles.in/windows-privilege-escalation-seimpersonateprivilege/)
 5. [HiveNightmare](https://www.hackingarticles.in/windows-privilege-escalation-hivenightmare/)
 6. [Logon Autostart Execution (Registry Run Keys)](https://www.hackingarticles.in/windows-privilege-escalation-logon-autostart-execution-registry-run-keys/)
 7. [Boot Logon Autostart Execution (Startup Folder)](https://www.hackingarticles.in/windows-privilege-escalation-boot-logon-autostart-execution-startup-folder/)
