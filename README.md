@@ -17,3 +17,4 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 10. [Unquoted Service Path](https://www.hackingarticles.in/windows-privilege-escalation-unquoted-service-path/)
 11. [Insecure GUI Application](https://www.hackingarticles.in/windows-privilege-escalation-insecure-gui-application/)
 12. [Weak Service Permissions](https://www.hackingarticles.in/windows-privilege-escalation-weak-services-permission/)
+13. [Scheduled Task/Job (T1573.005)](https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/)
