@@ -19,6 +19,6 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 12. [Weak Service Permissions](https://www.hackingarticles.in/windows-privilege-escalation-weak-services-permission/)
 13. [Scheduled Task/Job (T1573.005)](https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/)
 14. [Kernel Exploit](https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/)
-15. [CVE-2021–42278](https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/)
+15. [SamAccountSpoofing (CVE-2021–42278)](https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/)
 16. [SpoolFool](https://www.hackingarticles.in/windows-privilege-escalation-spoolfool/)
 17. [PrintNightmare](https://www.hackingarticles.in/windows-privilege-escalation-printnightmare/)
