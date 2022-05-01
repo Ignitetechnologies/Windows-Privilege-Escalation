@@ -4,6 +4,15 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 
 [1]: http://www.twitter.com/hackinarticles
 
+[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/61109.png
+[1.6]: https://www.linkedin.com/company/hackingarticles/
+[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
+[1.4]: https://discord.com/invite/kyKvXwK4Bk
+[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
+[1]: http://www.twitter.com/hackinarticles
+# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+
+![image](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/winprivs.jpg)
 
 1. [AlwaysInstallElevated](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated//)
 2. [SeBackupPrivilege](https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/)
