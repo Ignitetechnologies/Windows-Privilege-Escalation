@@ -4,7 +4,7 @@ This cheatsheet is aimed at the OSCP aspirants to help them understand the vario
 
 [1]: http://www.twitter.com/hackinarticles
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/61109.png
+[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
 [1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
 [1.4]: https://discord.com/invite/kyKvXwK4Bk
