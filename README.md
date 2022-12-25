@@ -31,3 +31,4 @@ This cheatsheet is aimed at OSCP aspirants to help them understand the various m
 15. [SamAccountSpoofing (CVE-2021–42278)](https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/)
 16. [SpoolFool](https://www.hackingarticles.in/windows-privilege-escalation-spoolfool/)
 17. [PrintNightmare](https://www.hackingarticles.in/windows-privilege-escalation-printnightmare/)
+18. [Server Operator Group](https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/)
