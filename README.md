@@ -25,19 +25,20 @@ Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 | 2 | 🎭 SeImpersonatePrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-seimpersonateprivilege/) |
 | 3 | 🐞 SeDebugPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-sedebugprivilege/) |
 | 4 | 👑 SeTakeOwnershipPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-setakeownershipprivilege/) |
-| 5 | ⚙️ AlwaysInstallElevated | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated/) |
-| 6 | 🌐 DnsAdmins to DomainAdmin | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-dnsadmins-to-domainadmin/) |
-| 7 | 🧨 HiveNightmare | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-hivenightmare/) |
-| 8 | 🔑 Registry Run Keys | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-logon-autostart-execution-registry-run-keys/) |
-| 9 | 🚀 Startup Folder | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-boot-logon-autostart-execution-startup-folder/) |
-| 10 | 🔓 Stored Credentials (Runas) | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-stored-credentials-runas/) |
-| 11 | 🗂️ Weak Registry Permissions | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-weak-registry-permission/) |
-| 12 | 🛠️ Unquoted Service Path | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-unquoted-service-path/) |
-| 13 | 🖥️ Insecure GUI Application | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-insecure-gui-application/) |
-| 14 | 🔧 Weak Service Permissions | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-weak-services-permission/) |
-| 15 | ⏰ Scheduled Task / Job | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/) |
-| 16 | 🧬 Kernel Exploit | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/) |
-| 17 | 🧾 SamAccountSpoofing (CVE-2021-42278) | [Read Article](https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/) |
-| 18 | 🖨️ SpoolFool | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-spoolfool/) |
-| 19 | 🖨️ PrintNightmare | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-printnightmare/) |
-| 20 | 🧑‍💻 Server Operator Group | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/) |
+| 5 | 🔐 SeTcbPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-setcbprivilege/) |
+| 6 | ⚙️ AlwaysInstallElevated | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated/) |
+| 7 | 🌐 DnsAdmins to DomainAdmin | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-dnsadmins-to-domainadmin/) |
+| 8 | 🧨 HiveNightmare | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-hivenightmare/) |
+| 9 | 🔑 Registry Run Keys | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-logon-autostart-execution-registry-run-keys/) |
+| 10 | 🚀 Startup Folder | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-boot-logon-autostart-execution-startup-folder/) |
+| 11 | 🔓 Stored Credentials (Runas) | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-stored-credentials-runas/) |
+| 12 | 🗂️ Weak Registry Permissions | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-weak-registry-permission/) |
+| 13 | 🛠️ Unquoted Service Path | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-unquoted-service-path/) |
+| 14 | 🖥️ Insecure GUI Application | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-insecure-gui-application/) |
+| 15 | 🔧 Weak Service Permissions | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-weak-services-permission/) |
+| 16 | ⏰ Scheduled Task / Job | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-scheduled-task-job-t1573-005/) |
+| 17 | 🧬 Kernel Exploit | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/) |
+| 18 | 🧾 SamAccountSpoofing (CVE-2021-42278) | [Read Article](https://www.hackingarticles.in/active-directory-privilege-escalation-cve-2021-42278/) |
+| 19 | 🖨️ SpoolFool | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-spoolfool/) |
+| 20 | 🖨️ PrintNightmare | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-printnightmare/) |
+| 21 | 🧑‍💻 Server Operator Group | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/) |
