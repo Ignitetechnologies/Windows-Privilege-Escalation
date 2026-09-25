@@ -26,8 +26,8 @@ Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 | 3 | 🐞 SeDebugPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-sedebugprivilege/) |
 | 4 | 👑 SeTakeOwnershipPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-setakeownershipprivilege/) |
 | 5 | 🔐 SeTcbPrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-setcbprivilege/) |
-| 6 | ⚙️ AlwaysInstallElevated | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated/) |
-| 7 | 💿 SeManageVolumePrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-semanagevolumeprivilege/) |
+| 6 | 💿 SeManageVolumePrivilege | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-semanagevolumeprivilege/) |
+| 7 | ⚙️ AlwaysInstallElevated | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-alwaysinstallelevated/) |
 | 8 | 🌐 DnsAdmins to DomainAdmin | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-dnsadmins-to-domainadmin/) |
 | 9 | 🧨 HiveNightmare | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-hivenightmare/) |
 | 10 | 🔑 Registry Run Keys | [Read Article](https://www.hackingarticles.in/windows-privilege-escalation-logon-autostart-execution-registry-run-keys/) |
